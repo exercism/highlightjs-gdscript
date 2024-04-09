@@ -1,5 +1,5 @@
 {
-  "name": "highlightjs-gdscript",
+  "name": "@exercism/highlightjs-gdscript",
   "version": "0.0.1",
   "description": "highlight.js syntax definition for Godot's GDScript language",
   "main": "src/index.js",
@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/form-follows-function/highlightjs-gdscript.git"
+    "type": "https",
+    "url": "https://github.com/exercism/highlightjs-gdscript"
   },
   "keywords": [
     "Godot",
